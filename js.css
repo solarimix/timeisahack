@@ -1,0 +1,39 @@
+<!--
+h1 { font-family: Tahoma, Arial, Helvetica, sans-serif; color: #000033; font-size: 16pt ; }
+
+h2 { font-family: Helvetica, sans-serif; color: #000080; font-size: 13pt; font-weight:bold ;}
+
+h3 { font-family: Arial, Helvetica, sans-serif; color: #0000CC; font-size: 13pt; }
+
+address { font-family: Arial, sans-serif; color: #000000; font-size: 8pt ; }
+
+p { font-family: Tahoma, Arial, sans-serif; color: #000000; font-size: 11pt; }
+
+li { font-family: Arial, Helvetica, sans-serif; color: #000003; font-size: 11pt; font-weight:normal ;list-style-type: circle ; }
+
+ol { font-family: Arial, Helvetica, sans-serif; font-size: 11pt; font-weight:normal  }
+
+dd { font-size: 10pt; font-weight:normal color:black; }
+
+dt { font-family: Helvetica, sans-serif; font-size: 11pt; font-weight:bold;  color: #0000FF; }
+
+a:hover {color: #0000FF}
+
+.td  { font-family: Tahoma, Arial, sans-serif; color: #000000; font-size: 11pt; }
+
+
+.quote { font-family: Helvetica, sans-serif, Arial; color: #000000; font-size: 10 px; }
+
+.xdg { font-family: Arial, Helvetica, sans-serif; color: #000000; font-size: 17 px; font-weight:bold;}
+
+.xdg-text { font-family: Arial, Helvetica; color: #660000; font-size: 14 px;}
+
+.xdghead{ font-family: Arial, Helvetica; color: #003399; font-size: 14pt; font-weight:bold;}
+
+.subheader {  font-family: Helvetica, sans-serif; font-size: 11pt; font-weight:bold;  color: #0000FF; }
+
+.subtitle { font-family: Tahoma, Arial, Helvetica, sans-serif; font-size: 14pt; font-weight: normal; color: #330066; }
+
+.footer {  font-family: Courier, monospace, sans-serif; font-size: 10pt; font-weight:normal;  color: #990000; }
+
+//-->
