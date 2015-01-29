@@ -1,3 +1,28 @@
+/* description: Time itself is a valuable commodity: when humans are viewed as units within an ecological wholistic meme: 28 day, 13 moon day and moon calendar calculator written in reusable javascript
+
+base root src="/dreamspell/sealstones/kin/small/'
+link  /portal/decoder"
+
+      This file is part of  ICHING64HEXAGRAMS | timeisahack |timeitselfmaybeahack
+   
+      https://github.com/ICHING64HEXAGRAMS/timeitselfmaybeahack |
+      https://github.com/ICHING64HEXAGRAMS
+
+    timeisahack is free software: you can redistribute it and/or modify
+    it under the terms of the GNU General Public License as published by
+    the Free Software Foundation, either version 3 of the License, or
+    (at your option) any later version.
+    timeisahack is distributed in the hope that it will be useful,
+    but WITHOUT ANY WARRANTY; without even the implied warranty of
+    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+    GNU General Public License for more details.
+    You should have received a copy of the GNU General Public License
+    along with Foobar.  If not, see <http://www.gnu.org/licenses/>.
+    
+    http://www.gnu.org/licenses/gpl-howto.html
+*/
+
+
 function yearmore()
 {
 	var drop_year=curr_year-2002;
@@ -317,15 +342,15 @@ document.write(d_date + '.' + (d_month + 1) + '.' + d_fullyear + '</span></td></
   
       This file is part of  ICHING64HEXAGRAMS | timeisahack |  timeitselfmaybeahack
       
-      https://github.com/ICHING64HEXAGRAMS/timeitselfmaybeahack.
+      https://github.com/ICHING64HEXAGRAMS/timeitselfmaybeahack
       https://github.com/ICHING64HEXAGRAMS
 
-    Foobar is free software: you can redistribute it and/or modify
+    timeisahack is free software: you can redistribute it and/or modify
     it under the terms of the GNU General Public License as published by
     the Free Software Foundation, either version 3 of the License, or
     (at your option) any later version.
 
-    Foobar is distributed in the hope that it will be useful,
+    timeisahack is distributed in the hope that it will be useful,
     but WITHOUT ANY WARRANTY; without even the implied warranty of
     MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
     GNU General Public License for more details.
